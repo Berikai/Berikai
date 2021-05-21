@@ -41,4 +41,6 @@ BNB/ETH Wallet: **0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5**
 
 ## Extra
 
-I'm also into music production. That's all, much love. Bye <3
+I'm also into music production. You wonder the genre?.. It's dubstep, lol ;) 
+
+That's all, much love. Bye <3

@@ -1,6 +1,6 @@
 # Berikai
 
-Uhm, hello! I'm an 18 y/o boy who is coding mostly for fun.
+Uhm, hello! I'm an 18 y/o who is coding mostly for fun.
 
 ## Programming Languages
 
@@ -15,14 +15,14 @@ I didn't learn how to code to do stuff.
 I've always come up with an idea an just jump into it and I've always searched for how to do's but you know what is amazing, it's my way to learn.
 
 Learning while doing the thing that I don't know by searching how to do that. 
-So, to be honest I'm not a professional coder in any language but I guess if I need to use a language for the stuff that I want to do, I'm always like lets goo without even being familiar with it.
+So, to be honest I'm not a professional coder in any language but I guess if I need to use a language for the stuff that I want to do, I'm always like lets go without even being familiar with it. Actually the basics of all of them usually same...
 
 ## What kind of things I've done so far
 
 Hmmmmmm, let me think.
 
 Okay, I've made,
-- FTP based RAT program while in 2015 y/o with **VB.NET**.
+- FTP based RAT program while in 2015 with **VB.NET**.
 - A mobile platform game called Stress Head while in 2017 by using **Unity C#**.
 - Auto Roulette Gambler Bot in a specific website with specified strategy in 2018 by using **C#**.
 - Instagram Automatic Repost Bot with **Visual C#** with a library called InstagramApiSharp in 2019.

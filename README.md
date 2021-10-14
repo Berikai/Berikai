@@ -37,7 +37,7 @@ Okay, I've made,
 
 ## Donate
 
-BNB/ETH Wallet: **0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5**
+BSC/ETH Wallet: **0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5**
 
 ## Extra
 

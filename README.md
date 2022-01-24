@@ -1,6 +1,6 @@
 # Berikai
 
-Uhm, hello! I'm an 19 y/o who is coding mostly for fun.
+Uhm, hello! I'm 19 y/o who is coding mostly for fun.
 
 ## Programming Languages
 

@@ -26,6 +26,7 @@ Okay, I've made,
 - Instagram Automatic Repost Bot with **Visual C#** with a library called InstagramApiSharp in 2019.
 - External Game Hacks to GTA5 and Transformice (for educational purposes only) with **C++** in 2020.
 - A cute website for my one and only girlfriend with using **ReactJS** in 2021.
+- A pixel buddy for you running on your desktop with **C#** in 2022. (Currently working on)
 
 ## Contact
 
@@ -33,9 +34,18 @@ Okay, I've made,
 - Instagram: @berikai_tr
 - Twitter: @berikai_tr
 
-## Donate
+## Donations
 
-Donate with Metamask: **0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5**
+### Bitcoin
+> 19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho
+### Ethereum
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Binance Smart Chain
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Polygon
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Solana
+> G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p
 
 ## Extra
 

@@ -4,12 +4,12 @@ Uhm, hello! I'm 19 y/o who is coding mostly for fun.
 
 ## Programming Languages
 
-I have experienced coding with mostly **C#** and some other languages like **C++**, **VB.NET**, **Dart**, **Javascript**, **Python**.
+I have experienced coding with mostly **C#** and some other languages like **C++**, **VB.NET**, **Dart**, **Javascript**, **Python**. I'm more into web technologies right now. 
 ## How professional I am
 
 I've met with computers in the age 3. I remember that I have started coding with **VB.NET**. 
-
 Anyways, I guess I know the basics about the concept "coding" for years. 
+
 I didn't learn how to code to do stuff directly. 
 I've always come up with an idea and just jump into it and I've always did my research in the process of bringing life my ideas. It's my way to learn.
 
@@ -26,7 +26,9 @@ Okay, I've made,
 - Instagram Automatic Repost Bot with **Visual C#** with a library called InstagramApiSharp in 2019.
 - External Game Hacks to GTA5 and Transformice (for educational purposes only) with **C++** in 2020.
 - A cute website for my one and only girlfriend with using **ReactJS** in 2021.
-- A pixel buddy for you running on your desktop with **C#** in 2022. (Currently working on)
+- A responsive designed pixel art tool application for web browsers with using **ReactJS** in 2021 ( Not finished ) 
+- "A pixel buddy for you running on your desktop", a desktop character project with **C#** in 2022. (Currently working on)
+- A social platform that offers its users to earn money (No details for now) (Currently working on, planning since 2020 November) 
 
 ## Contact
 

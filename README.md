@@ -29,7 +29,7 @@ Okay, I've made,
 - External game hacks to GTA5 and Transformice (for educational purposes only) in 2020 with **C++**. 
 - A cute website for my one and only girlfriend in 2021 with **ReactJS**. 
 - [Pixel Art Tool](https://berikai.github.io/pixel-art-tool), responsive designed pixel art tool project for web browsers in 2021 with **ReactJS**. (Not finished) 
-- [PixBud](https://discord.gg/CNNjxgfb), a pixel buddy for you running on your desktop", a desktop character project in 2022 with **C#**. (Early Access)
+- [Pixbud](https://discord.gg/CNNjxgfb), a pixel buddy for you running on your desktop", a desktop character project in 2022 with **C#**. (Early Access)
 - A social platform that offers its users to earn money (No details for now) (Currently working on, planning since 2020 November) 
 
 ## Contact

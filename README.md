@@ -20,14 +20,16 @@ So, to be honest I'm not a professional coder in any language but I guess if I n
 Hmmmmmm, let me think.
 
 Okay, I've made,
+- Some basic 2D games with Gamemaker in 2012 or before (lost the files). 
 - FTP based RAT program while in 2015 with **VB.NET**.
-- A mobile platform game called Stress Head while in 2017 by using **Unity C#**.
-- Auto Roulette Gambler Bot in a specific website with specified strategy in 2018 by using **C#**.
-- Instagram Automatic Repost Bot with **Visual C#** with a library called InstagramApiSharp in 2019.
-- External Game Hacks to GTA5 and Transformice (for educational purposes only) with **C++** in 2020.
-- A cute website for my one and only girlfriend with using **ReactJS** in 2021.
-- A responsive designed pixel art tool application for web browsers with using **ReactJS** in 2021 ( Not finished ) 
-- "A pixel buddy for you running on your desktop", a desktop character project with **C#** in 2022. (Currently working on)
+- An android platform game called [Stress Head](https://play.google.com/store/apps/details?id=com.konuk.streskafa) in 2017 with **Unity C#**.
+- Auto Roulette Gambler Bot in a specific website with specified strategy in 2018 with **C#**.
+- Instagram Automatic Repost Bot with a library called InstagramApiSharp in 2019 with **C#**.
+- An android 5x5 [Minesweeper](https://play.google.com/store/apps/details?id=com.konuk.minesweeper) game in 2020 with **Android Studio Java**. 
+- External game hacks to GTA5 and Transformice (for educational purposes only) in 2020 with **C++**. 
+- A cute website for my one and only girlfriend in 2021 with **ReactJS**. 
+- [Pixel Art Tool](https://berikai.github.io/pixel-art-tool), responsive designed pixel art tool project for web browsers in 2021 with **ReactJS**. (Not finished) 
+- [PixBud](https://discord.gg/CNNjxgfb), a pixel buddy for you running on your desktop", a desktop character project in 2022 with **C#**. (Early Access)
 - A social platform that offers its users to earn money (No details for now) (Currently working on, planning since 2020 November) 
 
 ## Contact

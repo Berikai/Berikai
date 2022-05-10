@@ -4,7 +4,7 @@ Uhm, hello! I'm 19 y/o who is coding mostly for fun.
 
 ## Programming Languages
 
-I have experienced coding with mostly **C#** and some other languages like **C++**, **Java**, **VB.NET**, **Dart**, **Javascript**, **Python**. I'm more into **Javascript** right now. 
+I have experienced coding with mostly **C#** and some other languages like **Javascript**, **C++**, **Java**, **VB.NET**, **Dart**, **Python**. I'm more into **Javascript** right now. 
 ## How professional I am
 
 I've met with computers in the age 3. I remember that I have started coding with **VB.NET**. 

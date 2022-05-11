@@ -1,21 +1,75 @@
-# Berikai
+Hi 👋 I'm Berikai! 
+=======================
 
-Uhm, hello! I'm 19 y/o who is coding mostly for fun.
+Computer Nerd & Bass Addict
+---------------------------
 
-## Programming Languages
+Uhm, hello! I'm 19 y/o who code things for fun and loves music.
 
-I have experienced coding with mostly **C#** and some other languages like **Javascript**, **C++**, **Java**, **VB.NET**, **Dart**, **Python**. I'm more into **Javascript** right now. 
-## How professional I am
+*   🌍  I'm based in İzmir
+*   🖥️  See my portfolio at [Berikai's Cool Website 😎 (In Development)](http://berikai.github.io)
+*   ✉️  You can contact me at [berkayeren2009@gmail.com](mailto:berkayeren2009@gmail.com) (guys, it's the date I created my first mail, not my birthday.) 
+*   🧠  I'm trying to improve myself on javascript
+*   🤝  I'm open to collaborating on projects
+*   ⚡  I also produce bass music under the name [Verdant](https://soundcloud.com/verdantbass) 
 
-I've met with computers in the age 3. I remember that I have started coding with **VB.NET**. 
-Anyways, I guess I know the basics about the concept "coding" for years. 
+### Skills
 
-I didn't learn how to code to do stuff directly. 
-I've always come up with an idea and just jump into it and I've always did my research in the process of bringing life my ideas. It's my way to learn.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
+                    
+### Socials
 
-So, to be honest I'm not a professional coder in any language but I guess if I need to use a language for the stuff that I want to do, I'm always like lets go without even being familiar with it. Actually the basics of all of them usually same, so I'm easily handling it.
+<p align="left">
+<a href="https://discord.com/users/Verdant#6747" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Berikai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/berikai_tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/berikai_tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitch.tv/berikai_tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
 
-## What kind of things I've done so far
+### Badges
+
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/Berikai"><img src="https://github-readme-stats.vercel.app/api?username=Berikai&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Berikai's GitHub stats" /></a>
+<a href="http://www.github.com/Berikai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Berikai&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Berikai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berikai&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### About Programming Languages
+
+I have experienced coding with mostly **C#** and some other languages like **Javascript**, **C++**, **Java**, **VB.NET**, **Dart**, **Python** and so on... 
+
+I'm into **Javascript** right now because it's a powerful language with wide range of use and I love the syntax lol. 
+
+### How professional I am? 
+
+I've met with computers in the age 3. I remember that I have started coding with **VB.NET** in the age likely 9. 
+
+In short, I believe I know the basics about the concept of coding for years as I've been experimenting and I'm familiar with it. 
+
+### Why I learn code, and how? 
+
+I've never tried to learn any language at first. As I've always been familiar with computers, I've always just done my research if I needed to do something and it has often ended up with me actually learned a new language by experimenting it. Also, I think learning by experimenting is one of the best ways to understand and learn something.
+So, what can I say, it's my way to learn.
+
+To be honest, I don't think I'm a professional programmer (, yet) but if I need to use a language for the stuff that I want to do, I'm always ready to do a research and dive into it even without being familiar with it. Actually, the basics of all of them usually same, so I'm think I'm good at handling it.
+
+### The things I've done so far
 
 Hmmmmmm, let me think.
 
@@ -30,29 +84,22 @@ Okay, I've made,
 - A cute website for my one and only girlfriend in 2021 with **ReactJS**. 
 - [Pixel Art Tool](https://berikai.github.io/pixel-art-tool), responsive designed pixel art tool project for web browsers in 2021 with **ReactJS**. (Not finished) 
 - [Pixbud](https://discord.gg/NUG7r9HpY2), a pixel buddy for you running on your desktop", a desktop character project in 2022 with **C#**. (Early Access)
-- A social platform that offers its users to earn money (No details for now) (Currently working on, planning since 2020 November) 
+- A social platform that offers its users to earn money (No details for now) (Postponed due to my student career, planning since 2020 November) 
+- and so on.. 
 
-## Contact
+### Donations
 
-- E-mail: berkayeren2009@gmail.com
-- Instagram: @berikai_tr
-- Twitter: @berikai_tr
-
-## Donations
-
-### Bitcoin
+<b>Bitcoin</b>
 > 19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho
-### Ethereum
+
+<b>Ethereum</b>
 > 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
-### Binance Smart Chain
+
+<b>Binance Smart Chain</b>
 > 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
-### Polygon
+
+<b>Polygon</b>
 > 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
-### Solana
+
+<b>Solana</b>
 > G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p
-
-## Extra
-
-I'm also into music production. You can check my stuff here: https://soundcloud.com/verdantbass
-
-That's all, much love. Bye <3

@@ -44,7 +44,7 @@ Uhm, hello! I'm 19 y/o who code things for fun and loves music.
 </p>
 
 ### My Computer
-I have Windows 10 Pro and Ubuntu 20.0.04 dual-boot system on my HP Pavilion 15-cd0xx laptop.
+I have a dual-boot system with Windows 10 Pro and Ubuntu 20.0.04 on my HP Pavilion 15-cd0xx laptop.
 
 <img src="https://user-images.githubusercontent.com/18515671/168013118-e9639387-cab9-4518-8231-6159769d4390.png" alt="Windows 10 Pro" width="384"/> <img src="https://user-images.githubusercontent.com/18515671/168013137-8f17ca25-33cb-4739-a3f9-595aa50e16da.png" alt="Ubuntu 20.0.04" width="384"/>
 

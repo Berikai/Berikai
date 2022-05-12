@@ -6,7 +6,7 @@ Computer Nerd & Bass Music Addict
 
 Uhm, hello! I'm 19 y/o who code things for fun and loves music.
 
-*   🌍  I'm based in İzmir
+*   🌍  I'm based in İzmir/Turkey
 *   🖥️  See my portfolio at [Berikai's Cool Website 😎 (In Development)](http://berikai.github.io)
 *   ✉️  You can contact me at [berkayeren2009@gmail.com](mailto:berkayeren2009@gmail.com) (guys, it's the date I created my first mail, not my birthday.) 
 *   🧠  I'm trying to improve myself on javascript

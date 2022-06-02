@@ -93,7 +93,7 @@ Okay, I've made,
 - External game hacks to GTA5 and Transformice (for educational purposes only) in 2020 with **C++**. 
 - A cute website for my one and only girlfriend in 2021 with **ReactJS**. 
 - [Pixel Art Tool](https://berikai.github.io/pixel-art-tool), responsive designed pixel art tool project for web browsers in 2021 with **ReactJS**. (Not finished) 
-- [Pixbud](https://discord.gg/NUG7r9HpY2), a pixel buddy for you running on your desktop", a desktop character project in 2022 with **C#**. (Early Access)
+- [Pixbud](https://discord.gg/NUG7r9HpY2), a pixel buddy for you running on your desktop, a desktop character project in 2022 with **C#**. (Early Access)
 - A social platform that offers its users to earn money (No details for now) (Postponed due to my student career, planning since 2020 November) 
 - [WR2 Server Connector](https://github.com/Berikai/wr2-server-connector) is a server conection tool for the game World Racing 2 (2005) written in **C#**.
 - [Middler](https://github.com/Berikai/middler), a tcp client-host virtualization bridge written in **Node (Javascript)**.

@@ -19,7 +19,6 @@ Uhm, hello! I'm 19 y/o who code things for fun and loves music.
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -43,10 +42,9 @@ Uhm, hello! I'm 19 y/o who code things for fun and loves music.
   <a href="https://www.twitch.tv/berikai_tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
-### My Computer
-I have a dual-boot system with Windows 10 Pro and Manjaro with KDE Plasma on my HP Pavilion 15-cd0xx laptop.
+### My Desktop
+<img src="https://user-images.githubusercontent.com/18515671/204868722-89ea0c53-b8b5-4780-9770-e2cf7a772087.png" alt="Fedora" width="384"/>
 
-<img src="https://user-images.githubusercontent.com/18515671/172671383-d90e5921-385d-465d-9212-eec97663cb13.png" alt="Windows 10 Pro" width="384"/> <img src="https://user-images.githubusercontent.com/18515671/171701322-aefc39a7-84f7-4e9c-bcc2-71507af7f33d.png" alt="Manjaro" width="384"/>
 
 
 
@@ -77,11 +75,11 @@ In short, I believe I know the basics about the concept of coding for years as I
 I've never tried to learn any language at first. As I've always been familiar with computers, I've always just done my research if I needed to do something and it has often ended up with me actually learned a new language by experimenting it. Also, I think learning by experimenting is one of the best ways to understand and learn something.
 So, what can I say, it's my way to learn.
 
-To be honest, I don't think I'm a professional programmer (, yet) but if I need to use a language for the stuff that I want to do, I'm always ready to do a research and dive into it even without being familiar with it. Actually, the basics of all of them usually same, so I'm think I'm good at handling it.
+To be honest, I don't think I'm a professional programmer (, yet) but if I need to use a language for the stuff that I want to do, I'm always ready to do a research and dive into it even without being familiar with it. Actually, the basics of all of them usually same, so I think I'm good at handling it.
 
 ### The things I've done so far
 
-Hmmmmmm, let me think.
+Hmmmmmm, let me think. Actually those are not usually serious projects but here you go.
 
 Okay, I've made,
 - Some basic 2D games with Gamemaker in 2012 or before (lost the files). 
@@ -96,6 +94,7 @@ Okay, I've made,
 - [Pixbud](https://discord.gg/NUG7r9HpY2), a pixel buddy for you running on your desktop, a desktop character project in 2022 with **C#**. (Early Access)
 - A social platform that offers its users to earn money (No details for now) (Postponed due to my student career, planning since 2020 November) 
 - [WR2 Server Connector](https://github.com/Berikai/wr2-server-connector) is a server conection tool for the game World Racing 2 (2005) written in **C#**.
+- A minecraft hacked client for a specific server with **Java and C++**. 
 - [Middler](https://github.com/Berikai/middler), a tcp client-host virtualization bridge written in **Node (Javascript)**.
 - and so on.. 
 

@@ -4,7 +4,7 @@ Hi 👋 I'm Berikai!
 Computer Nerd & Bass Music Addict
 ---------------------------
 
-Uhm, hello! I'm 19 y/o who code things for fun and loves music.
+Uhm, hello! I'm 20 y/o who code things for fun and loves music.
 
 *   🌍  I'm based in İzmir/Turkey
 *   🖥️  See my portfolio at [Berikai's Cool Website 😎 (In Development)](http://berikai.github.io)

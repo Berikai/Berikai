@@ -7,7 +7,7 @@ Computer Nerd 🤓 & Bass Music Addict 💚
 Hello! I'm 20 y/o boy who codes things for fun and loves music.
 
 *   🌍  I'm based in İzmir/Turkey
-*   🖥️  Check out [Berikai's Cool Website 😎](http://berikai.github.io) (In Development)
+*   🖥️  Check out [Berikai's Cool Website 😎](http://berikai.github.io)
 *   🧠  I'm trying to improve myself on javascript
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I also produce bass music under the name [Verdant](https://soundcloud.com/verdantbass) 
@@ -32,6 +32,7 @@ Hello! I'm 20 y/o boy who codes things for fun and loves music.
 ### Socials
 
 <p align="left">
+  <a href="https://soundcloud.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/35013/soundcloud.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/Verdant#6747" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/Berikai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>

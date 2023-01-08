@@ -1,16 +1,21 @@
 Hi 👋 I'm Berikai!
 =======================
 
-Computer Nerd 🤓 & Bass Music Addict 💚
----------------------------
+I love software tech and bass music.
 
-Hello! I'm 20 y/o boy who codes things for fun and loves music.
+*   🇹🇷  İzmir, Turkey 
+*   🧠  Javascript Enthusiast
+*   🎵  Dubstep, Drum 'n Bass, Experimental...
 
-*   🌍  I'm based in İzmir/Turkey
-*   🖥️  Check out [Berikai's Cool Website 😎](http://berikai.github.io)
-*   🧠  I'm trying to improve myself on javascript
-*   🤝  I'm open to collaborating on projects
-*   ⚡  I also produce bass music under the name [Verdant](https://soundcloud.com/verdantbass) 
+### Socials
+
+<p align="left">
+  <a href="https://soundcloud.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/35013/soundcloud.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/Verdant#6747" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/Berikai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ### Experiences
 
@@ -28,93 +33,21 @@ Hello! I'm 20 y/o boy who codes things for fun and loves music.
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-                    
-### Socials
-
-<p align="left">
-  <a href="https://soundcloud.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/35013/soundcloud.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/Verdant#6747" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/Berikai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/verdantbass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
-
-### My Desktop
-<img src="https://user-images.githubusercontent.com/18515671/204868722-89ea0c53-b8b5-4780-9770-e2cf7a772087.png" alt="Fedora" width="384"/>
-
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Berikai"><img src="https://github-readme-stats.vercel.app/api?username=Berikai&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Berikai's GitHub stats" /></a>
-
-<a href="http://www.github.com/Berikai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Berikai&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Berikai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berikai&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### About Programming Languages
-
-I have experienced coding with mostly **C#** and some other languages like **Javascript**, **C++**, **Java**, **VB.NET**, **Dart**, **Python** and so on... 
-
-I'm into **Javascript** right now because it's a powerful language with wide range of use and I love the syntax lol. 
-
-### How professional I am? 
-
-I've met with computers in the age 3. I remember that I have started coding with **VB.NET** in the age likely 9. 
-
-In short, I believe I know the basics about the concept of coding for years as I've been experimenting and I'm familiar with it. 
-
-### Why I learn code, and how? 
-
-I've never tried to learn any language at first. As I've always been familiar with computers, I've always just done my research if I needed to do something and it has often ended up with me actually learned a new language by experimenting it. Also, I think learning by experimenting is one of the best ways to understand and learn something.
-So, what can I say, it's my way to learn.
-
-To be honest, I don't think I'm a professional programmer (, yet) but if I need to use a language for the stuff that I want to do, I'm always ready to do a research and dive into it even without being familiar with it. Actually, the basics of all of them usually same, so I think I'm good at handling it.
-
-### The things I've done so far
-
-Hmmmmmm, let me think. Actually those are not usually serious projects but here you go.
-
-Okay, I've made,
-- Some basic 2D games with Gamemaker in 2012 or before (lost the files). 
-- FTP based RAT program while in 2015 with **VB.NET**.
-- An android platform game called [Stress Head](https://play.google.com/store/apps/details?id=com.konuk.streskafa) in 2017 with **Unity C#**.
-- Auto Roulette Gambler Bot in a specific website with specified strategy in 2018 with **C#**.
-- Instagram Automatic Repost Bot with a library called InstagramApiSharp in 2019 with **C#**.
-- An android 5x5 [Minesweeper](https://play.google.com/store/apps/details?id=com.konuk.minesweeper) game in 2020 with **Android Studio Java**. 
-- External game hacks to GTA5 and Transformice (for educational purposes only) in 2020 with **C++**. 
-- A cute website for my one and only girlfriend in 2021 with **ReactJS**. 
-- [Pixel Art Tool](https://berikai.github.io/pixel-art-tool), responsive designed pixel art tool project for web browsers in 2021 with **ReactJS**. (Not finished) 
-- [Pixbud](https://discord.gg/NUG7r9HpY2), a pixel buddy for you running on your desktop, a desktop character project in 2022 with **C#**. (Early Access)
-- A social platform that offers its users to earn money (No details for now) (Postponed due to my student career, planning since 2020 November) 
-- [WR2 Server Connector](https://github.com/Berikai/wr2-server-connector) is a server conection tool for the game World Racing 2 (2005) written in **C#**.
-- A minecraft hacked client for a specific server with **Java and C++**. 
-- [Middler](https://github.com/Berikai/middler), a tcp client-host virtualization bridge written in **Node (Javascript)**.
-- and so on.. 
 
 ## Support
 
-If you find this project interesting then consider buying a coffee for me 👇
+If you want to support me, consider buying a coffee 👇
 
 <p><a href="https://www.buymeacoffee.com/verdant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="196" /></a></p>
 
-
 or you can donate in crypto! 💖
 
-<b>Bitcoin</b>
-> 19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho
+<b>Bitcoin</b> > `19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho`
 
-<b>Ethereum</b>
-> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+<b>Ethereum</b> > `0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5`
 
-<b>Binance Smart Chain</b>
-> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+<b>Binance Smart Chain</b> > `0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5`
 
-<b>Polygon</b>
-> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+<b>Polygon</b> > `0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5`
 
-<b>Solana</b>
-> G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p
+<b>Solana</b> > `G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p`

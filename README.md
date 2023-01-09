@@ -4,7 +4,7 @@ Hi 👋 I'm Berikai!
 I love software tech and bass music.
 
 *   🇹🇷  İzmir, Turkey 
-*   🧠  Javascript Enthusiast
+*   🖥️  Javascript Enthusiast
 *   🎵  Dubstep, Drum 'n Bass, Experimental...
 
 ### Socials

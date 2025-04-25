@@ -21,3 +21,28 @@ I love software tech and bass music.
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
+---
+
+### 💖 Support Me
+
+If you enjoy what I do and feel like showing a little love, thank you! It truly means a lot.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/verdant)
+
+#### 🪙 Crypto Donations
+
+<details>
+<summary><strong>ETH (ERC20)</strong></summary>
+<pre><code>0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5</code></pre>
+</details>
+
+<details>
+<summary><strong>BNB (BEP20)</strong></summary>
+<pre><code>0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5</code></pre>
+</details>
+
+<details>
+<summary><strong>Pi Network</strong></summary>
+<pre><code>GDZ442Y2FABJN6X6BEQEBLQ437N6WO25GW4YLMDUTCYHXVBOS5R4SCLK</code></pre>
+</details>

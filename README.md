@@ -43,6 +43,11 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
 </details>
 
 <details>
+<summary><strong>MATIC (Polygon)</strong></summary>
+<pre><code>0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5</code></pre>
+</details>
+
+<details>
 <summary><strong>Pi Network</strong></summary>
 <pre><code>GDZ442Y2FABJN6X6BEQEBLQ437N6WO25GW4YLMDUTCYHXVBOS5R4SCLK</code></pre>
 </details>

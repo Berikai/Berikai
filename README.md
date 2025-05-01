@@ -55,6 +55,14 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
       </td>
     </tr>
     <tr>
+      <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=monero:4A9p6zqiYVigz6kcm8yifqbeRSVsCwqBhegPNwA9JWdH4jz4it8XNN6hhoMJg785k72PodGoXEnEZauirUe3GfGEVfjxVp2" alt="QR for XMR" width="150"></td>
+      <td>
+        <strong><img src="https://avatars.githubusercontent.com/u/7450663?s=200&v=4" alt="XMR" style="width: 16px; vertical-align: middle;"> Monero (XMR)</strong><br/>
+        <br/>
+        <pre><code>4A9p6zqiYVigz6kcm8yifqbeRSVsCwqBhegPNwA9JWdH4jz4it8XNN6hhoMJg785k72PodGoXEnEZauirUe3GfGEVfjxVp2</code></pre>
+      </td>
+    </tr>
+    <tr>
       <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p" alt="QR for SOL" width="150"></td>
       <td>
         <strong><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="SOL" style="width: 16px; vertical-align: middle;"> Solana (SOL)</strong><br/>

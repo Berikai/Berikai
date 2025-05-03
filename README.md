@@ -44,17 +44,6 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho" alt="QR for BTC" width="150">
-      </td>
-      <td>
-        <strong><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC" style="width: 16px; vertical-align: middle;"> Bitcoin (BTC)</strong><br/>
-        <strong><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Bitcoin_Cash.png" alt="BCH" style="width: 16px; vertical-align: middle;"> Bitcoin Cash (BCH)</strong><br/>
-        <br/>
-        <pre><code>19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho</code></pre>
-      </td>
-    </tr>
-    <tr>
       <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=monero:4A9p6zqiYVigz6kcm8yifqbeRSVsCwqBhegPNwA9JWdH4jz4it8XNN6hhoMJg785k72PodGoXEnEZauirUe3GfGEVfjxVp2" alt="QR for XMR" width="150"></td>
       <td>
         <strong><img src="https://avatars.githubusercontent.com/u/7450663?s=200&v=4" alt="XMR" style="width: 16px; vertical-align: middle;"> Monero (XMR)</strong><br/>

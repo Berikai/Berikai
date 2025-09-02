@@ -1,9 +1,7 @@
 Hi 👋 I'm Berikai!
 =======================
 
-I love software tech and bass music.
-
-### Technologies I've ever used
+I love software tech and bass music
 
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -30,11 +28,12 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
 
 <table>
   <tr>
-    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5" alt="QR for ETH/BSC/MATIC" width="125"></td>
+    <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5" alt="QR for ETH/BSC" width="100px">
+    </td>
     <td>
       <strong><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1920px-Ethereum-icon-purple.svg.png" alt="ETH" style="width: 16px; vertical-align: middle;"> Ethereum (ETH)</strong><br/>
-      <strong><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg/1024px-BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg.png" alt="BNB" style="width: 16px; vertical-align: middle;"> Binance Smart Chain (BNB)</strong><br/>
-      <br/>
+      <strong><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg/1024px-BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg.png" alt="BNB" style="width: 16px; vertical-align: middle;"> Binance Smart Chain (BNB)</strong>
+      <br>
       <pre><code>0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5</code></pre>
     </td>
   </tr>

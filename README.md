@@ -39,4 +39,4 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
   </tr>
 </table>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/verdant)
+<p><a href="https://www.buymeacoffee.com/verdant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="196" /></a></p>

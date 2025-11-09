@@ -1,4 +1,4 @@
-Hi 👋 I'm Berikai!
+Hi 👋 I'm Berikai! <img align="right" src="https://komarev.com/ghpvc/?username=Berikai&label=Views&color=brightgreen" alt="Github Profile View Counter"/>
 =======================
 
 I love software tech and bass music

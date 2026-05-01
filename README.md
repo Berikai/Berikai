@@ -32,7 +32,7 @@ If you enjoy what I do and feel like showing a little love, thank you! It truly 
     </td>
     <td>
       <strong><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1920px-Ethereum-icon-purple.svg.png" alt="ETH" style="width: 16px; vertical-align: middle;"> Ethereum (ETH)</strong><br/>
-      <strong><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg/1024px-BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg.png" alt="BNB" style="width: 16px; vertical-align: middle;"> Binance Smart Chain (BNB)</strong>
+      <strong><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg" alt="BNB" style="width: 16px; vertical-align: middle;"> Binance Smart Chain (BNB)</strong>
       <br>
       <pre><code>0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5</code></pre>
     </td>
